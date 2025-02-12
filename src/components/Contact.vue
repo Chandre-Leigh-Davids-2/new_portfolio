@@ -134,10 +134,6 @@
             </div>
           </div>
         </div>
-
-        <!--  -->
-        <form action="https://formspree.io/f/mgvvbzav" method="POST" target="_blank">
-        </form>
       </div>
     </div>
 
@@ -167,11 +163,10 @@ export default {
 
 .container-fluid {
   min-height: 100vh;
-  width: 95vw;
   padding: 8%;
   background-color: transparent;
   border: 3px solid white;
-  border-radius: 15px;
+  background-color: rgb(251, 217, 222);
 }
 
 h1 {
@@ -242,6 +237,7 @@ textarea {
 
 #experiment {
   background-color: white;
+  border-radius: 10px;
   max-height: 100wh;
 }
 

@@ -60,12 +60,12 @@ export default {
         return {
             // List of all portfolio items with categories
             portfolioItems: [
-                { title: 'Creative Portfolio', category: 'websites', image: project1, url:'https://portfoliocldavids.vercel.app/' },
-                { title: 'Pokedex', category: 'websites', image: project2, url:'https://pokemon-beta-livid.vercel.app/' },
-                { title: 'HTML,CSS,JavaScript', category: 'websites', image: project3, url:'https://visio-pearl.vercel.app/' },
-                { title: 'Wordpress', category: 'websites', image: project4, url:'https://dev-ecommerce-giftedmoments.pantheonsite.io/'},
-                { title: 'To Do List', category: 'application', image: project5, url:'https://to-do-list-nu-blush.vercel.app/' },
-                { title: 'Calculator', category: 'application', image: project6, url:'https://calculator-peach-iota-86.vercel.app/' },
+                { title: 'Creative Portfolio', category: 'websites', image: project1, url: 'https://portfoliocldavids.vercel.app/' },
+                { title: 'Pokedex', category: 'websites', image: project2, url: 'https://pokemon-beta-livid.vercel.app/' },
+                { title: 'HTML,CSS,JavaScript', category: 'websites', image: project3, url: 'https://visio-pearl.vercel.app/' },
+                { title: 'Wordpress', category: 'websites', image: project4, url: 'https://dev-ecommerce-giftedmoments.pantheonsite.io/' },
+                { title: 'To Do List', category: 'application', image: project5, url: 'https://to-do-list-nu-blush.vercel.app/' },
+                { title: 'Calculator', category: 'application', image: project6, url: 'https://calculator-peach-iota-86.vercel.app/' },
             ],
             selectedCategory: 'all', // default category
         };
@@ -91,15 +91,17 @@ export default {
 @import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
-h1{
+h1 {
     font-family: "Fredoka", serif;
 }
-p{
+
+p {
     font-family: "Poppins", serif;
 }
+
 .div {
     min-height: 100vh;
-    border: 2px solid black;
+    border: 4px solid #E5B80B;
 }
 
 .portfolio {
@@ -161,11 +163,13 @@ p{
     transition-duration: 1s;
     transition-property: all;
 }
-a{
+
+a {
     text-decoration: none;
     color: white;
 }
-a:hover{
+
+a:hover {
     text-decoration: none;
     color: black;
 }

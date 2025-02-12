@@ -11,7 +11,7 @@
         </div>
         <!-- End Section Title -->
   
-        <div class="container my-5">
+        <div class="container py-5">
           <div class="row">
             <!-- Left Column (Summary & Education) -->
             <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
