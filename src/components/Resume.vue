@@ -15,44 +15,26 @@
           <div class="row">
             <!-- Left Column (Summary & Education) -->
             <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-              <h3 class="resume-title">Summary</h3>
-              <div class="resume-item timeline-item pb-0">
-                <h4>Chandré Leigh Davids</h4>
-                <p>
-                  <em>
-                    Innovative and deadline-driven Graphic Designer with 3+ years of experience 
-                    designing and developing user-centered digital/print marketing material from 
-                    initial concept to final, polished deliverable.
-                  </em>
-                </p>
-                <ul>
-                  <li>Portland par 127, Orlando, FL</li>
-                  <li>(123) 456-7891</li>
-                  <li>alice.barkley@example.com</li>
-                </ul>
-              </div>
               <!-- End Resume Item -->
   
               <h3 class="resume-title">Education</h3>
               <!-- Timeline Section -->
               <div class="timeline">
                 <div class="resume-item timeline-item">
-                  <h4>Master of Fine Arts &amp; Graphic Design</h4>
-                  <h5>2015 - 2016</h5>
-                  <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
+                  <h4>Bachelor's Certificate</h4>
+                  <h5>2019 - 2023</h5>
+                  <p><em>Mondale High School</em></p>
                   <p>
-                    Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. 
-                    Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend.
+                   I studied at Mondale High School, where I was introduced to Coding through one of the teachers. I was part of what was essentially a start up Coding and Robotics Club.
                   </p>
                 </div>
   
                 <div class="resume-item timeline-item">
-                  <h4>Bachelor of Fine Arts &amp; Graphic Design</h4>
-                  <h5>2010 - 2014</h5>
-                  <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
+                  <h4>Certificate of Completion: Full Stack Web Development</h4>
+                  <h5>Apr 2024 - Sept 2024</h5>
+                  <p><em>Life Choices Academy</em></p>
                   <p>
-                    Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel 
-                    ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae.
+                    I studied Full Stack Web Development at Life Choices Academy where I learnt HTML,CSS,JavaScript,Vue.js,MySQL and Node.js. I built most of my foundation in coding through this course as well as developing and improving on my soft skills.
                   </p>
                 </div>
               </div>
@@ -66,30 +48,46 @@
               <!-- Timeline Section -->
               <div class="timeline">
                 <div class="resume-item timeline-item">
-                  <h4>Senior Graphic Design Specialist</h4>
-                  <h5>2019 - Present</h5>
-                  <p><em>Experion, New York, NY</em></p>
+                  <h4>Filing</h4>
+                  <h5>Dec 2023 - Mar 2024</h5>
+                  <p><em>Uppper Edge Pty Ltd</em></p>
                   <ul>
                     <li>
-                      Lead in the design, development, and implementation of graphic, layout, and production communication materials.
+                      I casualed as a filing clerk at Upper Edge Pty Ltd. I was responsible for filing documents, answering packing and assisting.
                     </li>
-                    <li>Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the project.</li>
-                    <li>Supervise the assessment of all graphic materials to ensure quality and accuracy.</li>
-                    <li>Oversee the efficient use of production project budgets ranging from $2,000 - $25,000.</li>
                   </ul>
                 </div>
   
                 <div class="resume-item timeline-item">
-                  <h4>Graphic Design Specialist</h4>
-                  <h5>2017 - 2018</h5>
-                  <p><em>Stepping Stone Advertising, New York, NY</em></p>
+                  <h4>Web Devloper</h4>
+                  <h5>Oct 2024 - Dec 2024</h5>
+                  <p><em>LC Studio</em></p>
                   <ul>
                     <li>
-                      Developed numerous marketing programs (logos, brochures, infographics, presentations, and advertisements).
+                      I started my learning journey for Web Development at LC Studio where I interned as a Web Developer, worked on and presented projects with my team. I learnt a lot about teamwork, communication and time management. I also learnt about the importance of documentation and testing, Wordpress, SEO and advanced JavaScript.
                     </li>
-                    <li>Managed up to 5 projects or tasks at a given time while under pressure.</li>
-                    <li>Recommended and consulted with clients on the most appropriate graphic design.</li>
-                    <li>Created 4+ design presentations and proposals a month for clients and account managers.</li>
+                  </ul>
+                </div>
+  
+                <div class="resume-item timeline-item">
+                  <h4>Software Devloper</h4>
+                  <h5>Jan 2025 - present</h5>
+                  <p><em>LC Studio</em></p>
+                  <ul>
+                    <li>
+                      I got promoted to a Software Dev intern at LC Studio where I worked on and presented projects with my team. I also worked on a project that involved creating a web application using python and the Flask Framework.
+                    </li>
+                  </ul>
+                </div>
+  
+                <div class="resume-item timeline-item">
+                  <h4>Entrepreneur</h4>
+                  <h5>Aug 2023 - present</h5>
+                  <p><em>Prettier is Pink</em></p>
+                  <ul>
+                    <li>
+                      I currently have and run my own business where I sell Satin roses and crafts.
+                    </li>
                   </ul>
                 </div>
               </div>
