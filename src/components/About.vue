@@ -110,6 +110,7 @@ img {
 
 .div {
   min-height: 100vh;
+  border: 4px solid #E5B80B;
 }
 ul li{
   list-style: none;

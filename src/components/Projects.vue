@@ -2,7 +2,7 @@
     <div class="div">
         <section id="portfolio" class="portfolio">
             <div class="container">
-                <div class="row text-center mt-5">
+                <div class="row text-center pt-5">
                     <h1 class="display-3 fw-bold text-capitalize">Latest work</h1>
                     <div class="heading-line"></div>
                     <p class="lead">
@@ -11,7 +11,7 @@
                 </div>
 
                 <!-- FILTER BUTTONS -->
-                <div class="row mt-5 mb-4 g-3 text-center">
+                <div class="row mt-5 py-4 g-3 text-center">
                     <div class="col-md-12">
                         <button class="mx-1 btn btn-outline-dark" type="button"
                             @click="filterPortfolio('all')">All</button>

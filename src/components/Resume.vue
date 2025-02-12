@@ -1,9 +1,9 @@
 <template>
-    <div>
+    <div class="div">
       <!-- Resume Section -->
       <section id="resume" class="resume section">
         <!-- Section Title -->
-        <div class="container section-title my-5" data-aos="fade-up">
+        <div class="container section-title py-5" data-aos="fade-up">
           <h2 class="text-center">Resume</h2>
           <p class="text-center">
             As an aspiring Full Stack Developer, I am passionate about creating intuitive and dynamic web applications. With a strong foundation in both front-end and back-end development, I’m eager to contribute to innovative projects and continuously grow my technical skills. Having completed Life Choices Academy’s web development bootcamp, I’m enthusiastic about leveraging my skills in real-world applications, both on-site and remotely.
@@ -135,7 +135,9 @@
     margin-top: 20px;
     margin-bottom: 20px;
   }
-  
+  .div{
+    background-color: rgb(251, 217, 222);
+  }
   /* Timeline Container */
   .timeline {
     position: relative;

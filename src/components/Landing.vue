@@ -98,6 +98,7 @@ a{
     align-items: center; /* Centers vertically */
     text-align: center; /* Ensures text is centered */
     min-height: 100vh; /* Full viewport height */
+    background-image: url('../assets/images/pexels-mdsnmdsnmdsn-1831234.jpg');
 }
 
 .container {
