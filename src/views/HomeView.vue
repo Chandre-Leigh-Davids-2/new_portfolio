@@ -1,18 +1,52 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div class="Wrapper">
+    <section class="section Landing" id="main">
+      <LandingComp />
+    </section>
+
+    <section class="section" id="about">
+      <AboutComp />
+    </section>
+
+    <section class="section" id="resume">
+      <ResumeComp />
+    </section>
+
+    <section class="section" id="projects">
+      <ProjectsComp />
+    </section>
+
+
+    <section class="section" id="contact">
+      <ContactComp />
+    </section>
+
   </div>
 </template>
-
 <script>
-// @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue'
+import LandingComp from '@/components/Landing.vue'
+import AboutComp from '@/components/About.vue'
+import ResumeComp from '@/components/Resume.vue'
+import ProjectsComp from '@/components/Projects.vue'
+import ContactComp from '@/components/Contact.vue'
+import FooterComp from '@/components/Footer.vue'
+
+
 
 export default {
-  name: 'HomeView',
   components: {
-    HelloWorld
+    LandingComp,
+    AboutComp,
+    ResumeComp,
+    ProjectsComp,
+    ContactComp,
+    FooterComp,
   }
 }
+
 </script>
+<style scoped>
+.Wrapper {
+  overflow-x: hidden;
+}
+</style>
