@@ -16,6 +16,9 @@
                             <a href="https://www.linkedin.com/in/chandre-leigh-davids-50410a33b" target="_blank"><i
                                     class="bi bi-linkedin"></i></a>
                         </div>
+                        <div class="d-flex justify-content-center">
+                            <a href="https://chandre-leigh-davids-2.github.io/new_portfolio/src/assets/images/Modern%20Professional%20CV%20Resume.pdf" target="_blank"><button class="my-3">View My CV</button></a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -107,5 +110,15 @@ a{
 i{
     color: pink;
     font-size: 5vh;
+}
+button{
+    background-color: pink;
+    color: white;
+    font-family: "Poppins", serif;
+    padding: 10px;
+    width: fit-content;
+    min-width: 12vw;
+    border: none;
+    border-radius: 15px ;
 }
 </style>
