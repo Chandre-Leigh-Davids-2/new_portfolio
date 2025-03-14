@@ -17,7 +17,7 @@
                                     class="bi bi-linkedin"></i></a>
                         </div>
                         <div class="d-flex justify-content-center">
-                            <a href="https://chandre-leigh-davids-2.github.io/new_portfolio/src/assets/images/Modern%20Professional%20CV%20Resume.pdf" target="_blank"><button class="my-3">View My CV</button></a>
+                            <a href="https://chandre-leigh-davids-2.github.io/new_portfolio/src/assets/images/My%20Cv.pdf" target="_blank"><button class="my-3">View My CV</button></a>
                         </div>
                     </div>
                 </div>
