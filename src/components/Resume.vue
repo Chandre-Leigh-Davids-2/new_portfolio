@@ -24,16 +24,6 @@
             <!-- Timeline Section -->
             <div class="timeline">
               <div class="resume-item timeline-item">
-                <h4>Bachelor's Certificate</h4>
-                <h5>2019 - 2023</h5>
-                <p><em>Mondale High School</em></p>
-                <p>
-                  I studied at Mondale High School, where I was introduced to Coding through one of the teachers. I was
-                  part of what was essentially a start up Coding and Robotics Club.
-                </p>
-              </div>
-
-              <div class="resume-item timeline-item">
                 <h4>Certificate of Completion: Full Stack Web Development</h4>
                 <h5>Apr 2024 - Sept 2024</h5>
                 <p><em>Life Choices Academy</em></p>
@@ -43,8 +33,17 @@
                   course as well as developing and improving on my soft skills.
                 </p>
               </div>
+              <div class="resume-item timeline-item">
+                <h4>Bachelor's Certificate</h4>
+                <h5>2019 - 2023</h5>
+                <p><em>Mondale High School</em></p>
+                <p>
+                  I studied at Mondale High School, where I was introduced to Coding through one of the teachers. I was
+                  part of what was essentially a start up Coding and Robotics Club.
+                </p>
+              </div>
             </div>
-            <div class="badges row d-flex justify-content-center">
+            <div class="badges row d-flex justify-content-center" id="resumeBadges">
               <h4 class="my-5 ">Badges</h4>
               <div class="col-sm-3">
                 <div class="img my-2"><img src="../assets/images/Linux.png" alt=""></div>
@@ -68,13 +67,13 @@
                 <div class="img my-2"><img src="../assets/images/python.png" alt=""></div>
               </div>
               <div class="col-sm-3">
-                
+
               </div>
             </div>
             <div class="button my-5">
-              <router-link to="/certificates" ><button>Certificates</button></router-link>
+              <router-link to="/certificates"><button>Certificates</button></router-link>
             </div>
-            
+
             <!-- End Timeline Section -->
           </div>
           <!-- End Left Column -->
@@ -84,14 +83,16 @@
             <h3 class="resume-title">Professional Experience</h3>
             <!-- Timeline Section -->
             <div class="timeline">
+
               <div class="resume-item timeline-item">
-                <h4>Filing</h4>
-                <h5>Dec 2023 - Mar 2024</h5>
-                <p><em>Uppper Edge Pty Ltd</em></p>
+                <h4>Software Devloper</h4>
+                <h5>Jan 2025 - present</h5>
+                <p><em>LC Studio</em></p>
                 <ul>
                   <li>
-                    I casualed as a filing clerk at Upper Edge Pty Ltd. I was responsible for filing documents,
-                    answering packing and assisting.
+                    I got promoted to a Software Dev intern at LC Studio where I worked on and presented projects with
+                    my team. I also worked on a project that involved creating a web application using python and the
+                    Flask Framework.
                   </li>
                 </ul>
               </div>
@@ -111,25 +112,24 @@
               </div>
 
               <div class="resume-item timeline-item">
-                <h4>Software Devloper</h4>
-                <h5>Jan 2025 - present</h5>
-                <p><em>LC Studio</em></p>
-                <ul>
-                  <li>
-                    I got promoted to a Software Dev intern at LC Studio where I worked on and presented projects with
-                    my team. I also worked on a project that involved creating a web application using python and the
-                    Flask Framework.
-                  </li>
-                </ul>
-              </div>
-
-              <div class="resume-item timeline-item">
                 <h4>Entrepreneur</h4>
                 <h5>Aug 2023 - present</h5>
                 <p><em>Prettier is Pink</em></p>
                 <ul>
                   <li>
                     I currently have and run my own business where I sell Satin roses and crafts.
+                  </li>
+                </ul>
+              </div>
+
+              <div class="resume-item timeline-item">
+                <h4>Filing</h4>
+                <h5>Dec 2023 - Mar 2024</h5>
+                <p><em>Uppper Edge Pty Ltd</em></p>
+                <ul>
+                  <li>
+                    I casualed as a filing clerk at Upper Edge Pty Ltd. I was responsible for filing documents,
+                    answering packing and assisting.
                   </li>
                 </ul>
               </div>
@@ -243,23 +243,27 @@ p {
   height: auto;
   margin-left: 5%;
 }
-.bg{
+
+.bg {
   background-color: rgba(255, 255, 255, 0.781);
   border-radius: 8px;
 }
+
 img {
   height: 100%;
   width: 100%;
   object-fit: contain;
 }
-button{
+
+button {
   border: none;
   background-color: #E5B80B;
   color: white;
   padding: 15px;
   border-radius: 5px;
 }
-button:hover{
+
+button:hover {
   border: none;
   color: #E5B80B;
   background-color: white;

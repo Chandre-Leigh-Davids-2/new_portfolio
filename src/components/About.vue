@@ -29,7 +29,6 @@
               <div class="row">
                 <div class="col-lg-6">
                   <ul>
-                    <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>04 October 2005</span></li>
                     <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span><a
                           href="https://portfoliocldavids.vercel.app/"
                           target="_blank">https://portfoliocldavids.vercel.app/</a></span></li>
@@ -40,9 +39,7 @@
                 </div>
                 <div class="col-lg-6">
                   <ul>
-                    <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>19</span></li>
-                    <li><i class="bi bi-chevron-right"></i> <strong>Credentials:</strong> <span>Certificate of
-                        Completion </span></li>
+                    <li><i class="bi bi-chevron-right"></i> <strong>Credentials:</strong> <span> <a href="#resumeBadges">View Badges</a></span></li>
                     <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong>
                       <span>chandreleighdavids.17@gmail.com</span>
                     </li>
