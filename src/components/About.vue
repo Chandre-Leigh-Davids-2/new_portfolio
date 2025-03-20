@@ -43,7 +43,6 @@
                     <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong>
                       <span>chandreleighdavids.17@gmail.com</span>
                     </li>
-                    <li><i class="bi bi-chevron-right"></i> <strong>Status:</strong> <span>Open To Work</span></li>
                   </ul>
                 </div>
               </div>

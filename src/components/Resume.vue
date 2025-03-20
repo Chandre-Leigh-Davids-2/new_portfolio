@@ -43,7 +43,8 @@
                 </p>
               </div>
             </div>
-            <div class="badges row d-flex justify-content-center" id="resumeBadges">
+            <div id="resumeBadges" class="mt-5"></div>
+            <div class="badges row d-flex justify-content-center" >
               <h4 class="my-5 ">Badges</h4>
               <div class="col-sm-3">
                 <div class="img my-2"><img src="../assets/images/Linux.png" alt=""></div>
