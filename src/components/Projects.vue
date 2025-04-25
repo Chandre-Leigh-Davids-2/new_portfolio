@@ -19,8 +19,8 @@
                             @click="filterPortfolio('websites')">Websites</button>
                         <button class="mx-1 btn btn-outline-dark" type="button"
                             @click="filterPortfolio('application')">Application</button>
-                        <button class="mx-1 btn btn-outline-dark" type="button" @click="filterPortfolio('case')">Case
-                            Studies</button>
+                        <button class="mx-1 btn btn-outline-dark" type="button" @click="filterPortfolio('qualityAssurance')">
+                            QA</button>
                     </div>
                 </div>
 
@@ -54,6 +54,7 @@ import project3 from '../assets/images/visio.png'
 import project4 from '../assets/images/wordpress.png'
 import project5 from '../assets/images/to-do-list.png'
 import project6 from '../assets/images/calculator.png'
+import project7 from '../assets/images/Worpress website .png'
 
 export default {
     data() {
@@ -66,6 +67,7 @@ export default {
                 { title: 'Wordpress', category: 'websites', image: project4, url: 'https://dev-ecommerce-giftedmoments.pantheonsite.io/' },
                 { title: 'To Do List', category: 'application', image: project5, url: 'https://to-do-list-nu-blush.vercel.app/' },
                 { title: 'Calculator', category: 'application', image: project6, url: 'https://calculator-peach-iota-86.vercel.app/' },
+                { title: 'Wordpress', category: 'website', image: project7, url: 'https://chandre.bigbeardbeta.co.za/' }
             ],
             selectedCategory: 'all', // default category
         };
