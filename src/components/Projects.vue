@@ -55,6 +55,7 @@ import project4 from '../assets/images/wordpress.png'
 import project5 from '../assets/images/to-do-list.png'
 import project6 from '../assets/images/calculator.png'
 import project7 from '../assets/images/Worpress website .png'
+import project8 from '../assets/images/sanrio.png'
 
 export default {
     data() {
@@ -67,7 +68,8 @@ export default {
                 { title: 'Wordpress', category: 'websites', image: project4, url: 'https://dev-ecommerce-giftedmoments.pantheonsite.io/' },
                 { title: 'To Do List', category: 'application', image: project5, url: 'https://to-do-list-nu-blush.vercel.app/' },
                 { title: 'Calculator', category: 'application', image: project6, url: 'https://calculator-peach-iota-86.vercel.app/' },
-                { title: 'Wordpress', category: 'website', image: project7, url: 'https://chandre.bigbeardbeta.co.za/' }
+                { title: 'Wordpress', category: 'website', image: project7, url: 'https://chandre.bigbeardbeta.co.za/' },
+                { title: 'Wordpress', category: 'website', image: project8, url: 'https://sanrio-olive.vercel.app/' }
             ],
             selectedCategory: 'all', // default category
         };
